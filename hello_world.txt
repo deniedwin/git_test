@@ -1,0 +1,3 @@
+this is a string of words to the text file
+asdasd
+EC
