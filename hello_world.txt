@@ -3,3 +3,5 @@ asdasd
 EC
 some changes from the way
 printf("asdasdad");
+
+should I keep learning c more deeply?
