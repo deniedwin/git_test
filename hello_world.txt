@@ -6,3 +6,4 @@ printf("asdasdad");
 
 should I keep learning c more deeply?
 time 12:02 the date is the same as the README.md change
+add some more info new linux VB!
